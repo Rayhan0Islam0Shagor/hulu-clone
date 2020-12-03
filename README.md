@@ -10,6 +10,7 @@ This is a online base website where you can see all kind of movies and web serie
 - axios
 - react-flip-move
 - react-text-truncate
+- firebase-hosting
 
 ### hOOKs:
 - useState
